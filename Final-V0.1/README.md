@@ -144,7 +144,7 @@
 وقد تمّ حلّ هاتين المشكلتين في المرحلة الثّانية.
 
 &#x20;3.لم نستطع تحميل مجلد ال dataset الذي اعتمدناه في مرحلة ال finetuning حيث أن حجمه أكبر من 25 ميغا بايت
-
+https://drive.google.com/file/d/1PfOT3dYW_4-c7LvCNCT0TRX2wayrKM9V/view?usp=sharing وقمنا برفعه هنا
 
 
 في المرحلة الثّانية:
